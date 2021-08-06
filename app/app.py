@@ -17,7 +17,6 @@ def image_transform(img):
     img_rescalling= (cv2.resize(img, dsize=(300,300),interpolation=cv2.INTER_NEAREST))
     return x_img,img_rescalling
 
-
 st.title("Digit Recognizer")
 st.write("Write digit in the worst handwritting and see whether the system can identify the right digit or not. ")
 
