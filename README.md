@@ -1,4 +1,4 @@
 # Digit-Recognizer-Streamlit-app
 
-(https://user-images.githubusercontent.com/59040119/128529991-1d460fc9-a337-4a7c-84de-dd5e251d922a.gif)
+![Digit Recognizer](https://user-images.githubusercontent.com/59040119/128530108-f82f59e1-2df0-4564-858d-9ca68248fd7c.gif)
 
